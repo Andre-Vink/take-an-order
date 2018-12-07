@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+    <style name="PersonItemStyle">
+
+    </style>
+
+    <style name="PersonItemStyle.Odd">
+        <!--<item name="android:background">#A60</item>-->
+    </style>
+
+    <style name="PersonItemStyle.Even">
+
+    </style>
+
+    <style name="HeaderText">
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="HeaderTextStyle">
+    </style>
+
+    <style name="OrderText" parent="SmallText">
+    </style>
+
+    <style name="OrderTextStyle">
+        <item name="android:textAppearance">@style/OrderText</item>
+    </style>
+
+    <style name="SmallText">
+        <item name="android:textSize">@dimen/textSizeNormal</item>
+    </style>
+
+    <style name="SmallButton" parent="SmallText">
+    </style>
+
+    <style name="SmallButtonStyle">
+        <item name="android:textAppearance">@style/SmallButton</item>
+        <item name="android:minWidth">50dp</item>
+    </style>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Take an Order</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <string name="bami">%1$d Bami</string>
+    <string name="frikandel">%1$d frikandel</string>
+    <string name="kroket">%1$d kroket</string>
+    <string name="broodje">%1$d broodje</string>
+
+    <string-array name="persons">
+        <item>Frans</item>
+        <item>Johan</item>
+        <item>Wanda</item>
+        <item>Leo</item>
+        <item>Oscar</item>
+        <item>André</item>
+        <item>Simon</item>
+        <item>Maarten</item>
+        <item>Hennie</item>
+        <item>Thomas</item>
+        <item>Henk</item>
+        <item>Aad</item>
+        <item>Patrick</item>
+        <item>Berry</item>
+        <item>Mini</item>
+        <item>Mascha</item>
+        <item>Ryan</item>
+        <item>Gast 1</item>
+        <item>Gast 2</item>
+        <item>Gast 3</item>
+        <item>Gast 4</item>
+    </string-array>
+</resources>
